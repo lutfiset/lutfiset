@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lutfiset
 - 👀 I’m interested in learning about Quality Assurance and Software Testing.
-- 🌱 I’m currently learning about Selenium Java (API and IDE)
+- 🌱 I’m currently learning about Selenium Java (WebDriver and IDE)
 - 📫 How to reach me (Email : lutfisetioningtias@gmail.com)
 
 <!---
